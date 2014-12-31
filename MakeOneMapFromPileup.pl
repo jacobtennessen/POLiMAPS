@@ -27,7 +27,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 Usage: perl MakeOneMapFromPileup.pl options
  required:
-  -g	a pileup file
+  -g	a pileup file. First two individuals are the parents (maternal then paternal), and the rest are offspring
  optional:
   -f	a variant must occur with a frequency at least the reciprocal of this value [default = 40]
   -c	a variant must occur at least this many times [default = 2]
