@@ -52,7 +52,7 @@ Usage: perl MakeCharacterMatricesWithInvariant.pl options
 
 #############
 
-getopts('t:v:m:o:e:r:n:x');
+getopts('t:v:m:o:e:r:n:x:');
 die $usage unless ($opt_t);
 die $usage unless ($opt_v);
 die $usage unless ($opt_m);
