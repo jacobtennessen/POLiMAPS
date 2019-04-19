@@ -10,7 +10,7 @@ use vars qw( $opt_g $opt_d $opt_m );
 # Usage
 my $usage = "
 AlleleFreqsFromPileup.pl - reads a pileup file and returns within-sample frequencies of putative SNPs
-Copyright (C) 2017 by Jacob A Tennessen
+Copyright (C) 2019 by Jacob A Tennessen
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
 the Free Software Foundation, either version 3 of the License, or
