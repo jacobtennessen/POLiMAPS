@@ -10,7 +10,7 @@ use vars qw( $opt_g $opt_f $opt_c $opt_d $opt_m $opt_o);
 # Usage
 my $usage = "
 MakeOneMapFromPileupNoParents.pl - reads a pileup file and converts it to OneMap format
-Copyright (C) 2014 by Jacob A Tennessen
+Copyright (C) 2019 by Jacob A Tennessen
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
