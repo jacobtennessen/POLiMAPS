@@ -13,7 +13,7 @@ AlleleFreqsFromPileup.pl - reads a pileup file and returns within-sample frequen
 
 FstFromPooledFreqs.pl - reads an allele frequency table and calculates pairwise Fst
 
-[MakeCharacterMatricesNew.pl includes the functionality previously represented by MakeCharacterMatrix.pl and MakeCharacterMatricesWithInvariant.pl in POLiMAPS v1.1, and also fixes several bugs that were caused by certain input file formats]
+[MakeCharacterMatricesNew.pl includes the functionality previously represented by MakeCharacterMatrix.pl and MakeCharacterMatricesWithInvariant.pl in POLiMAPS v1.0, and also fixes several bugs that were caused by certain input file formats]
 
 [AlleleFreqsFromPileup.pl and FstFromPooledFreqs.pl include the functionality previously represented by GOPOPS, https://github.com/jacobtennessen/GOPOPS]
 
